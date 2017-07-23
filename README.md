@@ -1,3 +1,7 @@
 # gitSkill
 从远程克隆
-oh my god!!
+<<<<<<< HEAD
+oh my god!
+=======
+oh my god!
+>>>>>>> dev
